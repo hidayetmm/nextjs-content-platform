@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         "bg-color": "#06202A",
       },
+      screens: {
+        "3xl": "2000px",
+      },
     },
   },
   plugins: [],
